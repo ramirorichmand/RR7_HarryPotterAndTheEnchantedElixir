@@ -1,4 +1,8 @@
 package com.harrypotterthingy.demo.model;
 
-public class HouseType {
+public enum HouseType {
+    GRYFFINDOR,
+    HUFFLEPUFF,
+    RAVENCLAW,
+    SLYTHERIN
 }
