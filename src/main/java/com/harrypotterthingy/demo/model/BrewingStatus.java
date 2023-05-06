@@ -1,4 +1,7 @@
 package com.harrypotterthingy.demo.model;
 
-public class BrewingStatus {
+public enum BrewingStatus {
+    BREW,
+    REPLICA,
+    DISCOVERY
 }
