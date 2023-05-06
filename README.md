@@ -2,6 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/122550071/236642164-9442dc6f-1c6f-4332-b548-c03157577a7a.jpg" alt="Snape Potion Lesson">
 
+## The Challenge 💡
+
 As a personal challenge, I have set out to develop a Spring Boot backend application within 24 hours. The goal of the application is to manage information about magical potions in the Wizarding World. 
 
 To achieve this, I will be implementing various Spring technologies such as Spring Data, Spring Data Queries, Spring database connection, and Spring JPA repositories. Additionally, I will be creating RESTful API endpoints for managing the potions. 
