@@ -12,4 +12,4 @@ My goal is to demonstrate my proficiency in Spring and backend development while
 
 Stay tuned for updates on my progress! ⏳
 
-<img src="https://user-images.githubusercontent.com/122550071/236640722-cf2af8bd-a332-4bef-b5c8-16a48a27ecb9.jpg" alt="Potions/Elixir" width="350"/>
+<img src="https://user-images.githubusercontent.com/122550071/236640722-cf2af8bd-a332-4bef-b5c8-16a48a27ecb9.jpg" alt="PotionsElixir" width="350"/>
