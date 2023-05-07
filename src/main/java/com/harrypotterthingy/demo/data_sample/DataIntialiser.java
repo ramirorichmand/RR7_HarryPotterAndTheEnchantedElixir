@@ -45,6 +45,8 @@ public class DataIntialiser {
             Potion juiceNonReplica = new Potion("Juice NonReplica", dracoMalfoy, Set.of(pepper, vinegar));
             potionRepository.save(juiceReplica);
             potionRepository.save(juiceNonReplica);
+        };
+
     }
 
 }
