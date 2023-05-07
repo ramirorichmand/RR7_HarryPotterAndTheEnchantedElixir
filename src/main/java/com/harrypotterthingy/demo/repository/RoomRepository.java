@@ -1,4 +1,6 @@
 package com.harrypotterthingy.demo.repository;
 
-public class RoomRepository {
+
+@Repository
+public interface RoomRepository extends JpaRepository<Room, Long> {
 }
