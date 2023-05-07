@@ -5,7 +5,6 @@ import com.harrypotterthingy.demo.model.Room;
 import com.harrypotterthingy.demo.service.RoomService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import
 
 import java.util.List;
 
