@@ -2,6 +2,7 @@ package com.harrypotterthingy.demo.service;
 
 import com.harrypotterthingy.demo.model.Room;
 import com.harrypotterthingy.demo.repository.RoomRepository;
+import com.harrypotterthingy.demo.exception.RoomNotFound;
 import org.springframework.stereotype.Service;
 
 
