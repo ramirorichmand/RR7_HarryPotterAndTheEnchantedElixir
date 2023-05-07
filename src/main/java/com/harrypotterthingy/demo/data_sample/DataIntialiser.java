@@ -40,6 +40,11 @@ public class DataIntialiser {
 
             Recipe juice = new Recipe("Juice", hermioneGranger, Set.of(salt, pepper, vinegar));
             recipeRepository.save(juice);
+
+            Potion juiceReplica = new Potion("Juice Replica", dracoMalfoy, Set.of(salt, pepper, vinegar));
+            Potion juiceNonReplica = new Potion("Juice NonReplica", dracoMalfoy, Set.of(pepper, vinegar));
+            potionRepository.save(juiceReplica);
+            potionRepository.save(juiceNonReplica);
     }
 
 }
