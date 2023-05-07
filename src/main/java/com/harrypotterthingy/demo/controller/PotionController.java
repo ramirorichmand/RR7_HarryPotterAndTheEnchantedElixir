@@ -1,8 +1,8 @@
 package com.harrypotterthingy.demo.controller;
 
-package com.harrypotterthingy.demo.controller.exception.PotionNotFound;
-package com.harrypotterthingy.demo.controller.exception.StudentNotFound;
-package com.harrypotterthingy.demo.model.Ingredient;
+import com.harrypotterthingy.demo.controller.exception.PotionNotFound;
+import com.harrypotterthingy.demo.controller.exception.StudentNotFound;
+import com.harrypotterthingy.demo.model.Ingredient;
 import com.harrypotterthingy.demo.model.Potion;
 import com.harrypotterthingy.demo.model.Recipe;
 import com.harrypotterthingy.demo.service.PotionService;
