@@ -1,5 +1,14 @@
 package com.harrypotterthingy.demo.service;
 
+import com.harrypotterthingy.demo.exception.PotionNotFound;
+import com.harrypotterthingy.demo.exception.StudentNotFound;
+import com.harrypotterthingy.demo.model.*;
+import com.harrypotterthingy.demo.repository.IngredientRepository;
+import com.harrypotterthingy.demo.repository.PotionRepository;
+import com.harrypotterthingy.demo.repository.RecipeRepository;
+import com.harrypotterthingy.demo.repository.StudentRepository;
+import org.springframework.stereotype.Service;
+
 
 import java.util.ArrayList;
 import java.util.Collection;
