@@ -1,7 +1,8 @@
 package com.harrypotterthingy.demo.controller;
 
-import com.harrypotterthingy.demo.model.Potion;
-import com.harrypotterthingy.demo.service.PotionService;
+import com.harrypotterthingy.demo.controller.exception.RoomNotFound;
+import com.harrypotterthingy.demo.model.Room;
+import com.harrypotterthingy.demo.service.RoomService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import

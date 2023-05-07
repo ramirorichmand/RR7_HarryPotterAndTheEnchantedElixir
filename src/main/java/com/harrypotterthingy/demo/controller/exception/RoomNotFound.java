@@ -1,4 +1,4 @@
 package com.harrypotterthingy.demo.controller.exception;
 
-public class RoomNotFound {
+public class RoomNotFound extends Throwable {
 }

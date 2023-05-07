@@ -7,6 +7,8 @@ import com.harrypotterthingy.demo.model.Potion;
 import com.harrypotterthingy.demo.model.Recipe;
 import com.harrypotterthingy.demo.service.PotionService;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.beans.factory.annotation.Autowired;
+
 
 
 import java.util.List;
@@ -37,7 +39,7 @@ public class PotionController {
 
     @PutMapping("/{potionId}/add")
     public Potion addIngredientToPotion(@PathVariable Long potionId, @RequestBody Ingredient ingredient) throws PotionNotFound, StudentNotFound {
-        return potionService.addIngredientToPotion(potionId, Ingredient);
+        return potionService.addIngredientToPotion(potionId, ingredient);
     }
 
     @GetMapping("/{potionId}/help")
