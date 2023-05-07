@@ -20,9 +20,7 @@ Stay tuned for updates on my progress! ⏳
 
 <b> Thank you </b> for taking the time to drop by and check out my Backend API Project. 🙏
 
-If you've found this project, I'd be grateful if you could support me in achieving my dreams and goals. Your contribution will enable me to continue creating more amazing content and enhancing my skills.  I'd love to have you on board for this journey, but no pressure if you can't! Your presence and feedback are already a great motivation for me 🤓
-
-If you found my work helpful, please consider supporting me in my journey to create more amazing content and enhance my skills. Your contribution will help me continue delivering the best experience possible for the magical and muggle community alike.
+If you've liked or found this project helpful, please consider supporting me in my journey to create more amazing content and enhance my skills. Your contribution will help me continue delivering the best experience possible for the magical and muggle community alike.
 
 I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions at <b> ramirorichmand@gmail.com </b> 🌟
 
