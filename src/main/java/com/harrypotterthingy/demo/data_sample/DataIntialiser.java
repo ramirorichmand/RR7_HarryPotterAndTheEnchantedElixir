@@ -10,5 +10,15 @@ import org.springframework.boot.ApplicationRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import java.util.Set;
+
+@Configuration
 public class DataIntialiser {
+
+    @Bean
+    ApplicationRunner runner(PotionRepository potionRepository,
+                             StudentRepository studentRepository,
+                             RecipeRepository recipeRepository,
+                             IngredientRepository ingredientRepository) {
+
 }
