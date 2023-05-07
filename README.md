@@ -29,7 +29,7 @@ Here are the features that make up the core of the <b> Harry Potter and the Ench
 13. **Generate Potion**: By sending a POST request to `/potions/brew`, a new Potion is generated containing the Student and the status of brewing.
 14. **Update Potion**: By sending a PUT request to `/potions/{potion-id}/add`, the Potion with the `potion-id` gets updated with the new Ingredient. The response contains the updated Potion object.
 
-With these features, the "Harry Potter and the Enchanted Elixir" project provides an efficient way to manage information about magical potions in the Wizarding World. 
+With these features, the <b> Harry Potter and the Enchanted Elixir 🧙‍♂️🧪 </b> project provides an efficient way to manage information about magical potions in the Wizarding World. 
 
 <img src="https://user-images.githubusercontent.com/122550071/236640722-cf2af8bd-a332-4bef-b5c8-16a48a27ecb9.jpg" alt="PotionsElixir" width="250"/>
 
