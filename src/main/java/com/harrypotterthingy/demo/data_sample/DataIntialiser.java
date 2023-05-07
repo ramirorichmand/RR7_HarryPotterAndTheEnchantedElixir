@@ -28,6 +28,15 @@ public class DataIntialiser {
             ingredientRepository.save(salt);
             ingredientRepository.save(pepper);
             ingredientRepository.save(vinegar);
+
+            Student hermioneGranger = new Student("Hermione Granger", HouseType.GRYFFINDOR, PetType.OWL);
+            Student dracoMalfoy = new Student("Draco Malfoy", HouseType.RAVENCLAW, PetType.CAT);
+            Student harryPotter = new Student("Harry Potter", HouseType.HUFFLEPUFF, PetType.NONE);
+            Student nevilleLongbottom = new Student("Neville Longbottom", HouseType.SLYTHERIN, PetType.RAT);
+            studentRepository.save(hermioneGranger);
+            studentRepository.save(dracoMalfoy);
+            studentRepository.save(harryPotter);
+            studentRepository.save(nevilleLongbottom);
     }
 
 }
