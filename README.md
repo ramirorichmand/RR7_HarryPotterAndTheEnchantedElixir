@@ -6,7 +6,7 @@
 
 As a personal challenge, I have set out to develop a Spring Boot backend application within 24 hours. The goal of the application is to manage information about magical potions in the Wizarding World. 
 
-To achieve this, I will be implementing various Spring technologies such as Spring Data, Spring Data Queries, Spring database connection, and Spring JPA repositories. Additionally, I will be creating RESTful API endpoints for managing the potions. 
+To achieve this, I will be implementing various Spring technologies such as <b> Spring Data, Spring Data Queries, Spring database connection, and Spring JPA repositories </b>. Additionally, I will be creating <b>RESTful API endpoints</b> for managing the potions. 
 
 My goal is to demonstrate my proficiency in Spring and backend development while working efficiently under time constraints. 🎯
 
