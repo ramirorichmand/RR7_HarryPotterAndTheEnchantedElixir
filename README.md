@@ -14,6 +14,27 @@ Stay tuned for updates on my progress! ⏳
 
 <img src="https://user-images.githubusercontent.com/122550071/236640722-cf2af8bd-a332-4bef-b5c8-16a48a27ecb9.jpg" alt="PotionsElixir" width="350"/>
 
+## MVP 🚀
+
+Here are the features that make up the core of the "Harry Potter and the Enchanted Elixir 🧙‍♂️🧪" project:
+
+1. 🎓 **Student Entity**: The `Student` class is an Entity and can be persisted by its Long IDs. <br>
+2. 📚 **Student Repository**: There is a `JpaRepository` interface dedicated to `Student` entities that can persist `Student` objects. <br>
+3. 🏠 **Room Entity**: The `Room` class is an Entity and can be persisted by its Long IDs.
+4. 📚 **Room Repository**: There is a `JpaRepository` interface dedicated to `Room` entities that can persist `Room` objects.
+5. 🔍 **Room Endpoints**: Endpoints for creating, finding, deleting, updating, finding available rooms, or finding rooms for rat owners create the same response as with the PostgreSQL database.
+6. 🧪 **Ingredient Entity**: The `Ingredient` class is an Entity and can be persisted by its Long IDs.
+7. 📚 **Ingredient Repository**: There is a `JpaRepository` interface dedicated to `Ingredient` entities that can persist `Ingredient` objects.
+8. 🍲 **Recipe Entity**: The `Recipe` class is an Entity and can be persisted by its Long IDs.
+9. 📚 **Recipe Repository**: There is a `JpaRepository` interface dedicated to `Recipe` entities that can persist `Recipe` objects.
+10. 🧙‍♂️ **Potions**: Potions are persisted in the database, and all existing potions are listed at `/potions`.
+11. 🧙‍♂️ **Brew Potion**: At `/potions`, a Student can brew a Potion by sending a POST request. The list of Ingredients is checked if it matches any Potion. If the brew is a discovery, the Recipe is persisted with the list of Ingredients, the Student, and with a name generated from the Student's name (e.g. "John Doe's discovery #2"). The response contains the persisted Potion.
+12. 🧙‍♂️ **Student Potions**: At `/potions/{student-id}`, all known Potions of a Student are listed.
+13. 🧙‍♂️ **Generate Potion**: By sending a POST request to `/potions/brew`, a new Potion is generated containing the Student and the status of brewing.
+14. 🧙‍♂️ **Update Potion**: By sending a PUT request to `/potions/{potion-id}/add`, the Potion with the `potion-id` gets updated with the new Ingredient. The response contains the updated Potion object.
+
+With these features, the "Harry Potter and the Enchanted Elixir" project provides an efficient way to manage information about magical potions in the Wizarding World.
+
 <!-- Add BMC --> 
 
 ## Show Your Support 🤝
