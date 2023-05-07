@@ -1,4 +1,4 @@
-# 06/05/23 RR7_HarryPotterAndTheEnchantedElixir 🧙‍♂️🧪 ⏳🚧
+# 06/05/23 RR7_HarryPotterAndTheEnchantedElixir 🧙‍♂️🧪 
 
 <img src="https://user-images.githubusercontent.com/122550071/236642164-9442dc6f-1c6f-4332-b548-c03157577a7a.jpg" alt="SnapePotionLesson">
 
@@ -10,13 +10,9 @@ To achieve this, I will be implementing various Spring technologies such as <b> 
 
 My goal is to demonstrate my proficiency in Spring and backend development while working efficiently under time constraints. 🎯
 
-Stay tuned for updates on my progress! ⏳
-
-<img src="https://user-images.githubusercontent.com/122550071/236640722-cf2af8bd-a332-4bef-b5c8-16a48a27ecb9.jpg" alt="PotionsElixir" width="350"/>
-
 ## MVP 🚀
 
-Here are the features that make up the core of the "Harry Potter and the Enchanted Elixir 🧙‍♂️🧪" project:
+Here are the features that make up the core of the <b> Harry Potter and the Enchanted Elixir 🧙‍♂️🧪 </b> project:
 
 1. **Student Entity**: The `Student` class is an Entity and can be persisted by its Long IDs. 
 2. **Student Repository**: There is a `JpaRepository` interface dedicated to `Student` entities that can persist `Student` objects. 
@@ -33,7 +29,9 @@ Here are the features that make up the core of the "Harry Potter and the Enchant
 13. **Generate Potion**: By sending a POST request to `/potions/brew`, a new Potion is generated containing the Student and the status of brewing.
 14. **Update Potion**: By sending a PUT request to `/potions/{potion-id}/add`, the Potion with the `potion-id` gets updated with the new Ingredient. The response contains the updated Potion object.
 
-With these features, the "Harry Potter and the Enchanted Elixir" project provides an efficient way to manage information about magical potions in the Wizarding World.
+With these features, the "Harry Potter and the Enchanted Elixir" project provides an efficient way to manage information about magical potions in the Wizarding World. 
+
+<img src="https://user-images.githubusercontent.com/122550071/236640722-cf2af8bd-a332-4bef-b5c8-16a48a27ecb9.jpg" alt="PotionsElixir" width="250"/>
 
 <!-- Add BMC --> 
 
