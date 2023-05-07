@@ -21,4 +21,13 @@ public class DataIntialiser {
                              RecipeRepository recipeRepository,
                              IngredientRepository ingredientRepository) {
 
+        return args -> {
+            Ingredient salt = new Ingredient("Salt");
+            Ingredient pepper = new Ingredient("Pepper");
+            Ingredient vinegar = new Ingredient("Vinegar");
+            ingredientRepository.save(salt);
+            ingredientRepository.save(pepper);
+            ingredientRepository.save(vinegar);
+    }
+
 }
