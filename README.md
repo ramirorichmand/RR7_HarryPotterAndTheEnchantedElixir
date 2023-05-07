@@ -22,7 +22,7 @@ Stay tuned for updates on my progress! ⏳
 
 If you've liked or found this project helpful, please consider supporting me in my journey to create more amazing content and enhance my skills. Your contribution will help me continue delivering the best experience possible for the magical and muggle community alike. 
 
-I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions at <b> ramirorichmand@gmail.com </b> 🌟
+I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions at <b> ramirorichmand@gmail.com </b> 📬
 
 Thank you again for your support! 🙏
 
