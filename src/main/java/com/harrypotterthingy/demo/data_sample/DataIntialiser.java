@@ -37,6 +37,9 @@ public class DataIntialiser {
             studentRepository.save(dracoMalfoy);
             studentRepository.save(harryPotter);
             studentRepository.save(nevilleLongbottom);
+
+            Recipe juice = new Recipe("Juice", hermioneGranger, Set.of(salt, pepper, vinegar));
+            recipeRepository.save(juice);
     }
 
 }
