@@ -39,9 +39,9 @@ With these features, the <b> Harry Potter and the Enchanted Elixir 🧙‍♂️
 
 <b> Thank you </b> for taking the time to drop by and check out this Backend API Project ☺️
 
-If you've liked or found this project helpful, please give this project a star 🌟 and  consider supporting me in my journey to create more amazing content and enhance my skills. Your contribution will help me continue delivering the best experience possible for the magical and muggle community alike. 
+If you've liked or found this project helpful, please consider giving it a star 🌟 and supporting me on my journey to improve my programming skills and chase my aspirations. I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions. 
 
-I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions at <b> ramirorichmand@gmail.com </b> 📬
+Every contribution counts and is deeply appreciated as I continue on my journey to improve my skills and create meaningful content for the magical and muggle community alike. 
 
 Thank you again for your support! 🙏
 
