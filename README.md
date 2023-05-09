@@ -41,7 +41,7 @@ With these features, the <b> Harry Potter and the Enchanted Elixir 🧙‍♂️
 
 If you've liked or found this project helpful, please consider giving it a star 🌟 and supporting me on my journey to improve my programming skills and chase my aspirations. I'd love to hear your feedback on this project, so feel free to leave your thoughts and suggestions. 
 
-Every contribution counts and is deeply appreciated as I continue on my journey to improve my skills and create meaningful content for the magical and muggle community alike. 
+Every contribution counts and is deeply appreciated as I pursue a path of lifelong learning and create meaningful content for the magical and muggle community alike. 
 
 Thank you again for your support! 🙏
 
